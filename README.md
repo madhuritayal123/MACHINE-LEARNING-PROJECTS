@@ -1,2 +1,2 @@
 # MACHINE-LEARNING-PROJECTS
-Completed projects
+Completed projects of MACHINE-LEARNING
